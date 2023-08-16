@@ -1,0 +1,9 @@
+/*모든 앱에서 적용되는 css, 전체적인 css*/
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
